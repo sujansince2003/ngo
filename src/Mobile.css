@@ -1,0 +1,381 @@
+@media only screen and (max-width: 600px) {
+    body {
+     padding: 0px 4px;
+    }
+ 
+p
+{
+   text-align:justify;
+}
+  .logo
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .logoimg
+  {
+    width: 100px;
+  }
+
+  nav 
+  {
+    display:none;
+  }
+
+  .hero
+{
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  /* border: 1px solid black; */
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+
+  
+  
+
+}
+
+.hero .left
+{
+ 
+  
+  flex-direction: column;
+  align-items: center;
+ 
+  width: 300px;
+  
+}
+.hero .left h1
+{
+
+ font-size: 25px;
+ text-align: left;
+ color: rgb(202, 25, 25);
+ 
+ .aboutust
+ {
+text-align: center;
+ }
+}
+.hero .herochildrenimg
+{
+ width: 300px;
+  
+}
+
+.features1
+{
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.feature1
+{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+ justify-content: center;
+  align-items: center;
+  padding: 50px 10px;
+  width: 300px;
+ 
+
+border-radius: 15px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.feature1 h2
+{
+  font-size: 16px;
+  text-align: center;
+  padding: 5px 0px;
+ 
+
+}
+.feature1 p
+{
+  font-size: 14px;
+  width: fit-content;
+
+
+}
+.aboutus
+{
+  
+justify-content: flex-start;
+ padding: 50px 0px;
+ text-align: center;
+}
+.aboutus-img
+{
+    display: none;
+}
+
+.aboutus-right
+{
+  
+  gap: 10px;
+}
+
+.red-text
+{
+  font-size: 30px;
+  font-weight: 600;
+  color: red;
+  text-align: center;
+
+}
+.aboutus p
+ {
+  font-size: 14px;
+  width: fit-content;
+  text-align: justify;
+ }
+
+ .missions
+{
+  
+  padding: 10px 0px;
+ 
+}
+.mainmission
+{
+font-size: 18px;
+padding: 20px ;
+}
+.missiontitle1
+{
+  font-size: 18px;
+}
+.missiontitle2
+{
+  font-size: 30px;
+  
+  padding: 5px 0px;
+}
+
+.missionslist
+{
+  padding: 10px 0px;
+  display: flex;
+  flex-direction: column;
+ 
+  gap: 10px;
+}
+.ourworks
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+ 
+ 
+  
+}
+.ourworks p
+{
+  width: fit-content;
+  text-align: justify;
+
+ 
+}
+.ourworks h2
+{
+ 
+  font-size: 30px;
+ 
+ 
+}
+.workimgs
+ {
+ 
+  flex-direction: column;
+ 
+  padding: 20px 0px;
+  gap: 10px;
+
+ 
+ }
+ .workimg11
+{
+  
+  width: 300px;
+  padding: 0px 30px;
+ 
+  
+
+  }
+  .helpus
+  {
+   
+   gap: 10px;
+   padding: 10px 0px;
+  }
+
+  .helpus h4
+  {
+    font-size: 30px;
+  
+  }
+  .helpus h3
+  {
+    font-size: 18px;
+    text-align: center;
+  
+  }
+  .helpus .help
+  {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0px;
+  gap: 30px;
+   
+  }
+
+  .help1
+  {
+    
+    
+    padding: 30px 0px;
+   
+  }
+
+ .mob-hidden
+ {
+    display: none;
+ }
+ .desktop-hidden
+ {
+    display: inline-block;
+ }
+ .msg-founder
+ {
+    padding: 20px 0px;
+ }
+ .founderimg
+{
+ 
+  width: 300px;
+  height: auto;
+ 
+
+}
+.testinomials
+{
+
+ 
+  padding:  40px;
+
+ 
+
+}
+.messages h2
+{
+  font-size: 20px;
+  
+}
+.message
+{
+  padding-top: 40px;
+  
+
+}
+.message p
+{
+    padding: 0px 20px;
+}
+.message h3
+{
+  display: flex;
+  flex-direction: column;
+  padding:10px ;
+  font-size: 12px
+  
+}
+.volunteer
+{
+    padding-top: 50px;
+}
+
+.vol-fb
+{
+    width: 50px;
+}
+.volimgbox
+{
+ 
+  height: 250px;
+  width: 300px;
+}
+.vinfo
+{
+  padding: 10px;
+  text-align: center;
+  
+}
+
+.contact
+{
+  
+  flex-direction: column;
+  gap: 30px;
+  
+
+ 
+ 
+}
+.contact p
+{
+    text-align: center;
+}
+
+.footer
+{
+  padding:10px;
+ 
+  flex-direction: column;
+  
+  text-align: center;
+
+}
+.footer .logoimg
+{
+ width: 150px;
+ padding: 10px 0px;
+}
+.quicklinks
+{
+  display: none;
+}
+
+.credits
+{
+  text-align: center;
+  
+
+}
+.sicon
+{
+width: 30px;
+}
+.slinks
+{
+  gap: 5px;
+}
+.developer
+{
+   
+    font-size: 15px;
+}
+.bg 
+{
+    padding: 10px;
+}
+}

@@ -1,0 +1,125 @@
+.maincontainer
+{
+    padding: 100px 50px;
+}
+.main-donate
+{
+  border: 2px solid blue ;
+    padding: 50px 20px ;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #18bd7a;
+  color: whitesmoke;
+  border-color: transparent;
+  border-radius: 50px;
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+
+    
+}
+.main-donate h2
+{
+    font-size: 40px;
+text-align: center;
+width: 40%;
+    font-weight: bold;
+}
+.main-donate h4
+{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.main-donate span
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+.bank-details
+{
+
+  width: 700px;
+    background-color: #18bd7a;
+    display: flex;
+    flex-direction: column;
+  gap: 5px;
+  
+}
+.donateus
+{
+    padding: 0px;
+}
+
+.bggreen
+{
+    background-color: #18bd7a;
+    padding: 0px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .maincontainer
+{
+    padding: 80px 4px;
+    
+}
+.main-donate
+{
+ 
+    padding: 20px 5px ;
+   flex-direction: column;
+ 
+  border-radius: 20px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+
+    
+}
+.main-donate h2
+{
+    font-size: 20px;
+
+display: none;
+ 
+    font-weight: bold;
+}
+.main-donate h4
+{
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.main-donate span
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    padding: 0px 20px;
+    
+}
+.bank-details
+{
+
+  width: fit-content;
+  text-align: center;
+    background-color: #18bd7a;
+    display: flex;
+    flex-direction: column;
+  gap: 5px;
+  
+}
+.donateus
+{
+    padding: 0px;
+}
+
+.bggreen
+{
+    background-color: #18bd7a;
+    padding: 0px;
+}
+
+
+}
