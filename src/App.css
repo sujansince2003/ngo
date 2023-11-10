@@ -41,7 +41,7 @@ header
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* border: 2px solid black; */
+  
   padding: 10px;
  
 }
@@ -65,8 +65,9 @@ nav  a
 {
   display: flex;
   padding: 30px;
-  /* border: 2px solid black; */
+  
   justify-content: space-between;
+  
   
   
 
@@ -101,7 +102,7 @@ font-size: 40px;
  
  font-size: 24px;
  padding: 10px;
- color: midnightblue;
+ color:rgb(32, 128, 224);
 
 
  
