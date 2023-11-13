@@ -352,6 +352,7 @@ font-weight: bold;
   {
     text-align: center;
     font-size: 20px;
+    line-height:  30px;
     background-color: rgb(40, 111, 172);
     color: wheat;
   border-radius: 20px;

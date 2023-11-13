@@ -44,7 +44,7 @@ function App() {
               to="aboutus"
               spy={true}
               smooth={true}
-              offset={-70} 
+              offset={-70}
               duration={500}
               className="linkscroll"
             >
@@ -319,11 +319,11 @@ function App() {
           <h4 className="red-text">How Can We Help Them?</h4>
           <h3>
             Clothe yourselves with compassion, kindness, humility, gentleness,
-            volunteering, speard helping hands and open heart for autistic
+            volunteering, spread helping hands and open heart for autistic
             children for Nepal. This can help us feel a sense of belonging, make
-            new friends, and connect with our communities. “I am ready”
+            new friends, and connect with our communities.
             <br />
-            ARE YOU?
+            “I am ready”, ARE YOU?
           </h3>
           <div className="help">
             <div className="help1">
