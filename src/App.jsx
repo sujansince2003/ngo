@@ -323,7 +323,7 @@ function App() {
             children for Nepal. This can help us feel a sense of belonging, make
             new friends, and connect with our communities.
             <br />
-            “I am ready”, ARE YOU?
+            “We are ready”, ARE YOU?
           </h3>
           <div className="help">
             <div className="help1">
