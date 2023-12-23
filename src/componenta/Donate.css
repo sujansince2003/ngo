@@ -7,6 +7,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   background-color: #18bd7a;
   color: whitesmoke;
   border-color: transparent;
@@ -70,7 +71,7 @@
   .main-donate {
     padding: 20px 5px;
     flex-direction: column;
-
+    gap: 10px;
     border-radius: 20px;
     border-top-left-radius: 50px;
     border-bottom-right-radius: 50px;
