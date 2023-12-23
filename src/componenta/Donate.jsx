@@ -17,6 +17,10 @@ function Donate() {
               <span className="bggreen">Swift Code: GLBBNPKA XXX0</span>
             </p>
           </div>
+          <div className="qr-box bggreen">
+            <span className="scan">Scan to Donate</span>
+            <img src="public/qr.jpeg" alt="" />
+          </div>
         </div>
       </div>
     </>
