@@ -19,7 +19,7 @@ function Donate() {
           </div>
           <div className="qr-box bggreen">
             <span className="scan">Scan to Donate</span>
-            <img src="public/qr.jpeg" alt="" />
+            <img src="https://i.postimg.cc/SxZndPMD/qr.jpg" alt="" />
           </div>
         </div>
       </div>
