@@ -426,7 +426,7 @@ function App() {
               <h4>E-mail</h4>
               {/* <p>Karki.rohit.45@gmail.com</p>
               <p>Sunar.chija45@gmail.com</p> */}
-              <p>wecareautusm2023@gmail.com</p>
+              <p>wecareautism2023@gmail.com</p>
             </div>
           </div>
         </section>
